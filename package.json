@@ -15,7 +15,7 @@
     "cross-env": "^5.2.0",
     "echarts": "^4.2.1",
     "echarts-gl": "^1.1.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "nuxt": "^2.8.1",
     "vue-draggable-resizable": "^2.0.0-rc2",
     "vue-echarts": "^4.0.3",
